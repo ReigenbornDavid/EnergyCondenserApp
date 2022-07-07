@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/EnergyCondenserApp/static/js/app.a7c325ce.chunk.js",
-    "app.js.map": "/EnergyCondenserApp/static/js/app.a7c325ce.chunk.js.map",
+    "app.js": "/EnergyCondenserApp/static/js/app.084f5f0d.chunk.js",
+    "app.js.map": "/EnergyCondenserApp/static/js/app.084f5f0d.chunk.js.map",
     "runtime~app.js": "/EnergyCondenserApp/static/js/runtime~app.bd62c537.js",
     "runtime~app.js.map": "/EnergyCondenserApp/static/js/runtime~app.bd62c537.js.map",
     "static/js/2.fc2ec4a3.chunk.js": "/EnergyCondenserApp/static/js/2.fc2ec4a3.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.bd62c537.js",
     "static/js/2.fc2ec4a3.chunk.js",
-    "static/js/app.a7c325ce.chunk.js"
+    "static/js/app.084f5f0d.chunk.js"
   ]
 }
