@@ -70,6 +70,6 @@ const styles = StyleSheet.create({
     color: '#000',
     //fontSize: 50,
   },
-  button: {backgroundColor: 'green', padding: 7, marginTop: 10},
+  button: {backgroundColor: 'greenyellow', padding: 7, marginTop: 10},
   buttonText: {color: '#fff', fontSize: 20}
 });
