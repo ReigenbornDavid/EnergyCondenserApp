@@ -1,22 +1,23 @@
 {
   "files": {
-    "app.js": "/EnergyCondenserApp/static/js/app.084f5f0d.chunk.js",
-    "app.js.map": "/EnergyCondenserApp/static/js/app.084f5f0d.chunk.js.map",
+    "app.js": "/EnergyCondenserApp/static/js/app.c2a3c498.chunk.js",
+    "app.js.map": "/EnergyCondenserApp/static/js/app.c2a3c498.chunk.js.map",
     "runtime~app.js": "/EnergyCondenserApp/static/js/runtime~app.bd62c537.js",
     "runtime~app.js.map": "/EnergyCondenserApp/static/js/runtime~app.bd62c537.js.map",
-    "static/js/2.fc2ec4a3.chunk.js": "/EnergyCondenserApp/static/js/2.fc2ec4a3.chunk.js",
-    "static/js/2.fc2ec4a3.chunk.js.map": "/EnergyCondenserApp/static/js/2.fc2ec4a3.chunk.js.map",
+    "static/js/2.d27cc3a9.chunk.js": "/EnergyCondenserApp/static/js/2.d27cc3a9.chunk.js",
+    "static/js/2.d27cc3a9.chunk.js.map": "/EnergyCondenserApp/static/js/2.d27cc3a9.chunk.js.map",
     "favicon-16.png": "/EnergyCondenserApp/favicon-16.png",
     "favicon-32.png": "/EnergyCondenserApp/favicon-32.png",
     "favicon.ico": "/EnergyCondenserApp/favicon.ico",
     "index.html": "/EnergyCondenserApp/index.html",
     "manifest.json": "/EnergyCondenserApp/manifest.json",
     "serve.json": "/EnergyCondenserApp/serve.json",
-    "static/js/2.fc2ec4a3.chunk.js.LICENSE.txt": "/EnergyCondenserApp/static/js/2.fc2ec4a3.chunk.js.LICENSE.txt"
+    "static/js/2.d27cc3a9.chunk.js.LICENSE.txt": "/EnergyCondenserApp/static/js/2.d27cc3a9.chunk.js.LICENSE.txt",
+    "static/media/logo.jpeg": "/EnergyCondenserApp/static/media/logo.0df7c4a9.jpeg"
   },
   "entrypoints": [
     "static/js/runtime~app.bd62c537.js",
-    "static/js/2.fc2ec4a3.chunk.js",
-    "static/js/app.084f5f0d.chunk.js"
+    "static/js/2.d27cc3a9.chunk.js",
+    "static/js/app.c2a3c498.chunk.js"
   ]
 }
